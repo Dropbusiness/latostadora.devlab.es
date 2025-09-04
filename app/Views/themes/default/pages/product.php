@@ -168,7 +168,7 @@
             <div class="row my-4">
                 <div class="col-12">
                     <div class="text-center my-4">
-                        Escríbenos a <a href="mailto:ayuda@easymerx.com">ayuda@easymerx.com</a> si tienes alguna duda.
+                    Lo sentimos, este producto no está disponible en estos momentos. Escríbenos a <a href="mailto:ayuda@easymerx.com">ayuda@easymerx.com</a> si tienes alguna duda.
                     </div>
                 </div>
             </div>

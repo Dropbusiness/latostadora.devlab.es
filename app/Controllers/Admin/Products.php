@@ -751,7 +751,7 @@ class Products extends BaseController
                                 'reference' => $sku.'-'.trim($product_models['code']).'-'.$talla['attribute_value_name'],
                                 'ean' => '',
                                 'models_code' => trim($product_models['code']),
-                                'default_on' => $k==0 && $combination_default_on==false?1:0,
+                                'default_on' => isset($talla['attribute_value_name']) && $talla['attribute_value_name']=='L' && $combination_default_on==false?1:0,
                             ];
                             $this->combinationsModel->insert($combinationData);
                             $combinationId = $this->db->insertID();
