@@ -1,0 +1,85 @@
+.alert-success {
+	color: #155724;
+	background-color: #d4edda;
+	border-color: #c3e6cb;
+}
+
+.alert-danger {
+	color: #721c24;
+	background-color: #f8d7da;
+	border-color: #f5c6cb;
+}
+.selectbox {
+    background: #fff;
+    color: #1d3b4a;
+    padding: 8px;
+    line-height: 18px;
+    border-radius: 4px;
+    border-width: 0 1px 4px;
+    border: 1px solid #ddd;
+	cursor: pointer;
+}
+.table td, .table th {
+    padding: .5rem;
+}
+
+#main_filterlist .badge{
+        padding: .35em .5em;
+        font-size: 100%;
+        font-weight: 500;
+        margin-bottom:7px;
+}
+#dropdownsegments.dropdown-menu {
+    min-width: 20rem;
+}
+
+div.categoriestree{
+    margin: 0;
+    padding:20px;
+    border: 1px solid rgba(0,0,0,.125);
+}
+div.categoriestree ul{
+    list-style-type: none;
+}
+div.categoriestree>ul{padding: 0;}
+div.categoriestree .checkbox{
+    padding: 0.2em;
+}
+div.categoriestree .checkbox:hover{
+    background: rgba(0,0,0,.03);
+}
+div.categoriestree i{
+    margin-right: 0.4em;
+}
+div.categoriestree .caret-cat {
+    cursor: pointer;
+    user-select: none;
+  }
+div.categoriestree .collapsed{
+    display: none;
+}
+div.categoriestree .notsub{width: 12px;}
+div.categoriestree .dfcategory{float: right;margin-top:5px;}
+.pstaggerTag {
+    display: inline-block;
+    padding: .125rem .5rem;
+    margin: 0 .5rem .25rem 0;
+    font-size: .9rem;
+    color: #25b9d7;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 4px;
+    color: #fff;
+    background-color: #25b9d7;
+  }
+  .pstaggerTag .pstaggerClosingCross {
+    margin: 0 0 0 .5rem;
+    color: #363a41;
+    text-decoration: none;
+  }
+  .pstaggerTag a{color: #fff;}
+  /*------------------------------------------------- Breadcrumb Style CSS ---------------------------------------------------*/
+  @media print { 
+    html, body { width: 200mm; height: 287mm;padding:5mm;}
+   }

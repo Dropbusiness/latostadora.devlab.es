@@ -1,0 +1,73 @@
+
+  /******************************COOKIES***************************************/
+  
+
+@media(min-width:481px){
+    #idxrcookies #bottom{
+        z-index: 8005;
+        width: 100%;
+        text-align: justify;
+        font-size: 13px;
+        position: fixed;
+        bottom: 0;
+        padding: 5px 30px;
+    }
+   
+}
+
+@media(max-width:480px){
+    #idxrcookies #bottom {
+        z-index: 8005;
+        width: 100%;
+        text-align: justify;
+        color: #fff;
+        font-size: 13px;
+        position: fixed;
+        padding: 5px 10px;
+        box-shadow: 0px 0px 5px rgba(0,0,0,.5);
+        bottom: 0;
+    }
+}
+
+#idxrcookies #cookies{
+    border-bottom: 1px dotted #fff;
+    color: #fff;
+    clear: both!important;
+    display: block;
+}
+#modal_cookies .nav-link:hover,#modal_cookies .nav-link:focus,#modal_cookies .nav-link {
+	color: #333;
+}
+#modal_cookies  .nav-pills .nav-link.active {
+	color: #fff;
+	background-color: #333!important;
+  }
+
+#idxrcookies #bottom{
+	background: white; background-color: #f7f7f7; color: black; bottom: 0px;  box-shadow: 0 15px 16px 0 rgba(0,0,0,0.3);z-index: 1059;
+}
+#idxrcookies.hide{
+	opacity: 0;
+    pointer-events: none;
+    transform: scale(0.8);
+    transition: all 0.3s ease;
+}
+  /***************************//*COOKIES**************************************/
+  #attribute_3 li {
+    width: 40px;
+    height: 40px;
+    min-width: 40px;
+    min-height: 40px;
+    border-radius: 50%; /* This makes it round */
+    margin-right: 10px; /* Space between circles */
+    border: 2px solid grey; /* Default border */
+    overflow: hidden; /* Ensures the text is not visible */
+    text-indent: 100%; /* Push the text off-screen */
+    white-space: nowrap; /* Keep the text off-screen */
+}
+#attribute_3 li.active {
+    border: 2.5px solid #ff8d8d
+}
+
+
+.msgnotify button{width: inherit; width: 25px;}

@@ -1,0 +1,280 @@
+.navber-blue {
+    background-color: rgb(2, 77, 223) !important;
+}
+@media (min-width: 720px){ 
+.dvqmgr {
+    min-height: inherit;
+    padding-top: 24px;
+    padding-bottom: 48px;
+    
+}
+.dVZMCk {
+    flex-direction: row;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+}
+.btdezf {
+    max-width: none;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+}
+@media (min-width: 992px){ 
+.dvqmgr {
+    padding-right: 40px;
+    padding-left: 40px;
+}
+.hjfdof {
+    flex-direction: row !important;
+    align-items: flex-end !important;
+}
+.kSmnFA {
+    width: 235px !important;
+    margin-right: 24px;
+    margin-bottom: 0px;
+}
+.kZsoJh {
+    padding-right: 40px;
+    padding-left: 40px;
+}}
+
+@media (min-width: 375px){ 
+.dvqmgr {
+    padding-right: 24px;
+    padding-left: 24px;
+}
+.kSmnFA {
+    width: 235px;
+    margin-right: 24px;
+    margin-bottom: 0px;
+}
+.kZsoJh {
+    padding-right: 24px;
+    padding-left: 24px;
+}
+.iKRyYW {
+    font-size: 18px;
+}}
+
+.dvqmgr {
+    padding: 16px 16px 24px;
+    position: relative;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    width: 100%;
+    min-height: 260px;
+    overflow: hidden;
+    color: rgb(255, 255, 255);
+    text-shadow: rgba(0, 0, 0, 0.5) 0px 0px 10px;
+}
+.kzXvz {
+    position: absolute;
+    inset: 0px;
+    display: block;
+    width: calc(100% + 100px);
+    height: calc(100% + 100px);
+    background-color: transparent;
+    background-image: url(https://s1.ticketm.net/dam/a/d3e/8de85b2b-e7ac-4130-8e57-bb927919ed3e_RETINA_PORTRAIT_3_2.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    transform: translate(-50px, -50px);
+    filter: blur(12px);
+}
+.kzXvz::after {
+    display: block;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    content: "";
+}
+.hDfunp {
+    width: 100%;
+    max-width: 1248px;
+}
+.bHTyUG {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    height: 100%;
+}
+.kDhOsL {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    display: flex;
+    flex-wrap: wrap;
+    -webkit-box-align: center;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    font-size: 14px;
+    line-height: 1;
+}
+.ktKNOM {
+    position: relative;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+}
+.eOOQaE {
+    display: inline-block;
+    padding: 4px 0px;
+    color: inherit;
+    text-decoration: none;
+}
+.ktKNOM::after {
+    margin: 0px 4px;
+    content: "/";
+}
+.hjfdof {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-flex: 1;
+    flex-grow: 1;
+    -webkit-box-pack: end;
+    justify-content: flex-end;
+    margin-top: 24px;
+}
+.kSmnFA {
+    animation: 0.6s cubic-bezier(0.1, 0.85, 0.25, 1) 0s 1 normal forwards running caZuFg;
+    will-change: transform;
+    position: relative;
+    width: 115px;
+    margin-bottom: 24px;
+    border-radius: 4px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 8px 20px 0px;
+}
+.jckIwH {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+}
+.iKRyYW {
+    margin: 0px;
+}
+.kZsoJh {
+    padding-right: 16px;
+    padding-left: 16px;
+    position: sticky;
+    top: 0px;
+    z-index: 2;
+    display: flex;
+    -webkit-box-pack: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(18, 18, 18, 0.18) 0px 3px 12px 0px;
+}
+.dVZMCk {
+    display: flex;
+    flex-direction: column;
+}
+.btdezf {
+    position: relative;
+}
+.lnOjK {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    display: flex;
+    overflow-x: auto;
+    scroll-behavior: smooth;
+}
+.blfngL {
+    position: relative;
+    display: block;
+    padding: 20px 20px 16px;
+    border-bottom: 4px solid transparent;
+    color: rgb(100, 100, 100);
+    font-weight: 600;
+    font-size: 14px;
+    letter-spacing: 0.15em;
+    white-space: nowrap;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.dieHWG::before {
+    top: 50%;
+    display: inline-block;
+    width: 0.25em;
+    height: 0.25em;
+    margin: 0px 0.4em;
+    border-radius: 50%;
+    background-color: currentcolor;
+    transform: translateY(-50%);
+    content: "";
+}
+.fecha-event {
+    font-size: 24px;
+
+}
+.round-button {
+    border-radius: 50%; /* Establece un radio de 50% para hacerlo redondo */
+    width: 50px; /* Ajusta el ancho según tus necesidades */
+    height: 50px; /* Ajusta el alto según tus necesidades */
+    text-align: center; /* Centra el contenido horizontalmente */
+    line-height: 50px; /* Centra el contenido verticalmente */
+    color: #fff; /* Color del texto */
+    cursor: pointer; /* Cambia el cursor al pasar por encima */
+    border: none; /* Quita el borde */
+    outline: none; /* Quita el contorno al hacer clic */
+}
+@media (max-width: 576px){
+    .fecha-event {
+        font-size: 19px;
+    }
+}
+.color-oscuro {
+background-color: #3a3a3a;
+color: white;
+}
+.color-claro {
+background-color: #7b798d;
+color: white;
+}
+.border-1 {
+border: 1px solid;
+}
+.border-b {
+    border-bottom: 1px solid;
+}
+.margin-r {
+    margin-left: -15px !important;
+    margin-right: 5px;
+}
+a {
+    text-decoration: none;
+}
+.border-2 {
+    border-bottom: 1px solid;
+    border-left: 1px solid;
+    border-right: 1px solid;
+}
+.border-3 {
+    border-left: 1px solid;
+    border-right: 1px solid;
+}
+.card-border {
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgba(0,0,0,.1);
+}
+.black {
+    color: black;
+}
+@media (max-width: 576px) {
+    table th {
+        display: none;
+    }
+
+    table tr {
+        display: block;
+        margin-bottom: 20px;
+    }
+
+    table td {
+        display: block;
+    }
+}

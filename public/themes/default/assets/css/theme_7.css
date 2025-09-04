@@ -1,0 +1,434 @@
+/*/------------U2--------/*/
+body.theme_7 {
+    background-color: #142037;
+}
+body.theme_7.product_page {
+    background-color: #142037;
+    background-image: url('https://molanlos90.com/wp-content/uploads/2024/11/fondomain-poster-2025-banner-scaled.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+body.theme_7 section.axil-shop-area{
+    background-color: #c900ff !important;
+    background-image: url('https://molanlos90.com/wp-content/uploads/2024/11/fondomain-poster-2025-banner-scaled.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+body.theme_7.catalogo .titulo-producto{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21.86px;
+    font-family: 'Manrope', sans-serif;
+    color: white !important;
+}
+body.theme_7.catalogo .titulo-producto-des{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21.86px;
+    font-family: 'Manrope', sans-serif;
+    color: white !important;
+}
+body.theme_7.product_page .axil-single-product-area{
+    background-color: #ffffff00;
+}
+body.theme_7.product_page .axil-mainmenu{
+    background-color: #142037;
+}
+body.theme_7 .axil-mainmenu.axil-sticky {
+    background-color: #142037;
+}
+body.theme_7.product_page .btn-volver {
+    color: #142037 !important;
+    font-family: 'Manrope', sans-serif;
+}
+body.theme_7.checkout_page .btn-volver {
+    color: white !important;
+    font-family: 'Manrope', sans-serif;
+}
+body.theme_7.product_page .product-title {
+    color: #ffffff !important;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 32px;
+}
+body.theme_7.product_page .price-amount {
+    color: #ffffff !important;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+}
+body.theme_7.product_page .description p{
+    color: #ffffff !important;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+}
+body.theme_7.product_page .title {
+    color: #ffffff !important;
+    font-family: 'Manrope', sans-serif;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 32px;
+}
+body.theme_7 .single-product-modern .single-product-content .inner .range-variant li {
+    border-radius: 0px;
+    background-color: #ffffff;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 24px;
+    letter-spacing: 3px;
+    text-align: center;
+    color: #142037;
+    border: 1px solid #000000;
+}
+body.theme_7 .single-product-modern .single-product-content .inner #attribute_1 .range-variant li:hover, .single-product-modern .single-product-content .inner #attribute_1 .range-variant li.active {
+    background-color: black !important;
+    color: white !important;
+    border: 2.5px solid #c900ff;
+}
+body.theme_7  #attribute_3 li.active {
+    border: 2.5px solid #c900ff;
+}
+body.theme_7 .single-product-modern .single-product-content .inner #attribute_2 .range-variant li {
+    border-radius: 0px;
+    background-color: #ffffff;
+    font-weight: 700;
+    font-size: 10px;
+    line-height: 24px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #142037;
+    border: 1px solid #142037;
+}
+body.theme_7 .single-product-modern .single-product-content .inner #attribute_2 .range-variant li:hover, .single-product-modern .single-product-content .inner #attribute_2 .range-variant li.active {
+    background-color: black !important;
+    color: white !important;
+    border: 2.5px solid #c900ff!important;
+}
+body.theme_7.product_page input {
+    background-color: #14013800;
+    color: #ffffff;
+}
+body.theme_7 .qty-plus-minus .input-group-btn .btn-primary {
+    font-size: 20px;
+    height: 29px;
+    /* width: 25px; */
+    line-height: 2px;
+    background-color: #c900ff;
+    border-color: #c900ff;
+    border-radius: 0;
+}
+body.theme_7 .custom-button {
+    background-color: #c900ff;
+    color: #F8F0E7;
+    border: 0;
+    padding: 10px 30px;
+    transition: all 0.3s;
+    font-size: 16px;
+    border-radius: 0 !important;
+    font-size: var(--font-size-b1);
+    line-height: 24px;
+    font-weight: 700;
+    display: inline-block;
+    position: relative;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+body.theme_7 .section-title-border {
+    border-bottom: 0;
+}
+body.theme_7 .desc-product {
+    font-weight: 400;
+    font-size: 32px;
+    color: #ffffff;
+}
+body.theme_7 .relation-product {
+    font-weight: 400;
+    font-size: 32px;
+    color: #ffffff;
+}
+body.theme_7.product_page .titulo-producto{
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 21.86px;
+    font-family: 'Manrope', sans-serif;
+    color: #ffffff !important;
+}
+body.theme_7.product_page .titulo-producto-des{
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21.86px;
+    font-family: 'Manrope', sans-serif;
+    color: #ffffff !important;
+}
+body.theme_7.product_page .text-descrip-product{
+    color: #ffffff !important;
+    font-family: 'Manrope', sans-serif;
+}
+body.theme_7.product_page .text-descrip-product ul li{
+    color: #ffffff !important;
+    font-family: 'Manrope', sans-serif;
+}
+body.theme_7.product_page .text-descrip-product ul li::marker{
+    color: #ffffff !important;
+    font-family: 'Manrope', sans-serif;
+}
+body.theme_7.product_page .text-descrip-product h1,
+body.theme_7.product_page .text-descrip-product h2,
+body.theme_7.product_page .text-descrip-product h3,
+body.theme_7.product_page .text-descrip-product h4,
+body.theme_7.product_page .text-descrip-product h5,
+body.theme_7.product_page .text-descrip-product h6,
+body.theme_7.product_page .text-descrip-product p
+{
+    color: #ffffff !important;
+    font-family: 'Manrope', sans-serif;
+}
+body.theme_7 .title-catalogo {
+    text-transform: capitalize;
+    font-size: 20px;
+    color: white;
+    font-weight: 400;
+    font-family: 'Manrope', sans-serif;
+}
+body.theme_7 .selec-font {
+    max-width: 236px;
+    font-size: 15px !important;
+    line-height: 20px;
+    font-weight: 400;
+    font-family: 'Manrope', sans-serif;
+}
+body.theme_7  select#events {
+    background-color: #142037;
+    border-radius: 0;
+    border: 1px solid white;
+    color: white !important;
+    font-family: 'Manrope', sans-serif;
+}
+body.theme_7 .cart-dropdown .cart-content-wrap {
+    background-color: #142037 !important;
+}
+body.theme_7 .cart-dropdown .cart-content-wrap .cart-body {
+    background-color: #D4D4D4 !important;
+}
+body.theme_7 .header-title{
+    color: white !important;
+    font-family: 'Manrope', sans-serif;
+}
+body.theme_7 .item-title a,body.theme_7 .item-title {
+    color: #142037 !important;
+    font-family: 'Manrope', sans-serif;
+}
+body.theme_7 .item-price  {
+    color: #142037 !important;
+    font-family: 'Manrope', sans-serif;
+}
+body.theme_7 .cart-qty-plus-minus input  {
+    color: #142037 !important;
+    font-family: 'Manrope', sans-serif;
+}
+body.theme_7 .cart-qty-plus-minus button  {
+    background: #c900ff !important;
+    border: 0;
+    border-radius: 0;
+}
+.cart-dropdown .cart-header {
+    border-bottom: 2px solid #19244f;
+}
+body.theme_7 .cart-dropdown .cart-item {
+    border-bottom: 1px solid #19244f;
+}
+body.theme_7 .cart-dropdown .cart-footer {
+    border-top: 2px solid #19244f;
+}
+body.theme_7 .product-button {
+    background-color: #c900ff  ;
+    border: 2px solid #c900ff !important;
+    color: white !important;
+    font-family: 'Manrope', sans-serif;
+    border-radius: 0;
+}
+body.theme_7 .cart-dropdown .cart-item .item-img .close-btn {
+    background-color: #c900ff ;
+    color: white !important;
+    border: none !important;
+    font-family: 'Manrope', sans-serif;
+}
+body.theme_7 .cart-dropdown .cart-header .cart-close {
+    color: white;
+    background: #c900ff;
+}
+body.theme_7 .cart-dropdown .cart-item .item-img {
+    margin-right: 15px;
+    margin-left: 15px;
+}
+body.theme_7 .cart-dropdown .cart-item .item-content {
+    padding-right: 50px;
+}
+body.theme_7 .flaticon-shopping-cart {
+    color: white;
+}
+body.theme_7 {
+    font-family: 'Manrope', sans-serif;
+}
+body.theme_7 .axil-order-summery {
+    background-color: #c900ff;
+}
+body.theme_7 .axil-order-summery.order-checkout-summery .summery-table-wrap {
+    background-color: #142037;
+    background-image: url('https://molanlos90.com/wp-content/uploads/2024/11/fondomain-poster-2025-banner-scaled.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+body.theme_7.checkout_page .form-group input {
+    background-color: #fff0;
+    color: #ffffffc4;
+}
+body.theme_7.checkout_page .form-group label {
+    background: #142037;
+    color: #ffffffc4;
+    font-family: 'Manrope', sans-serif;
+}
+body.theme_7.checkout_page tr {
+    color: #ffffffc4 ;
+}
+body.theme_7.checkout_page a {
+    color: #ffffffc4;
+}
+body.theme_7.checkout_page a.res{
+    color: #ffffff !important;
+}
+body.theme_7.checkout_page .title.res {
+    color: #ffffff;
+}
+body.theme_7.checkout_page .title {
+    color: #ffffffc4;
+}
+body.theme_7.checkout_page .input-group label {
+    color: #ffffffc4 !important;
+}
+body.theme_7.checkout_page .input-group span {
+    color: #ffffff !important;
+}
+body.theme_7.checkout_page .order-payment-method label {
+    color: #142037;
+}
+body.theme_7.checkout_page  .axil-order-summery.order-checkout-summery .summery-table .order-total td {
+    color: #ffffff;
+}
+body.theme_7.checkout_page .totalproducts  {
+    color: #ffffff;
+}
+body.theme_7.checkout_page .axil-order-summery .summery-table tbody td {
+    color: #ffffffc4;
+}
+body.theme_7.checkout_page .cart-qty-plus-minus input {
+    color: #ffffff ;
+    font-family: 'Manrope', sans-serif;
+}
+body.theme_7.checkout_page .ec-cart-content .table-content table tbody > tr td .cart-qty-plus-minus input {
+    color: #ffffff !important;
+}
+
+body.theme_7 .form-select {
+    background-image: url("/themes/default/assets/images/icons/select_1.svg") !important;
+}
+@media only screen and (min-width: 768px)
+{  
+    body.theme_7 .selec-font {
+    max-width: 270px;
+    font-size: 18px !important;
+    line-height: 20px;
+    font-weight: 400;
+    font-family: 'Manrope', sans-serif;
+    }
+}
+@media only screen and (min-width: 1201px)
+{
+
+    body.theme_7 .title-catalogo {
+        text-transform: capitalize;
+        font-size: 32px;
+        color: white;
+        font-weight: 400;
+        font-family: 'Manrope', sans-serif;
+    }
+}
+@media only screen and (max-width: 767px)
+{  
+    body.theme_7 .relation-product {
+        font-size: 20px;
+    }
+}
+
+body.theme_7.checkout_page .form-group label{
+    position: static !important;
+    top: auto;
+    left: auto;
+    pointer-events: auto;
+    z-index: auto;
+    background: none;
+    padding: 0 10px;
+}
+
+body.theme_7.checkout_page .frmcheckout .form-group label {
+    position: absolute !important;
+    top: -11px;
+    left: 20px;
+    pointer-events: none;
+    background: linear-gradient(45deg, #390071, #a133ff);
+    z-index: 4;
+    padding: 0 10px;
+    border-radius: 50px;
+}
+body.theme_7.checkout_page .form-group .input-group label {
+    position: relative !important;
+    font-size: 16px;
+    line-height: 20px;
+    font-weight: 500;
+    padding-left: 28px;
+    cursor: pointer;
+    top: -11px;
+    left: 20px;
+    pointer-events: none;
+    z-index: 4;
+    background: #142037;
+    margin-bottom: 6px;
+}
+body.theme_7.checkout_page .adyen-checkout__card__brands img{
+    vertical-align: top !important;
+}
+body.theme_7.checkout_page .adyen-checkout__input{
+    color: #000000 !important;
+}
+body.theme_7.checkout_page .term_white ,body.theme_7.checkout_page .term_white a{
+    color: white !important;
+}
+
+body.theme_7.checkout_page .axil-checkout-area{
+    background-color: #142037;
+    background-image: url('https://molanlos90.com/wp-content/uploads/2024/11/fondomain-poster-2025-banner-scaled.jpg');
+    background-position: center center;
+    background-size: cover;
+}
+body.theme_7.product_page .btn-volver{
+    font-family: 'Manrope', sans-serif;
+    color: white !important;
+}
+body.theme_7.product_page .ver_talla{
+    font-size: 14px;
+    color: #ffffff;
+    text-decoration: underline;
+}
+body.theme_7.checkout_page select{
+    font-size: 14px;
+    background-color: #33333300;
+    color: #ffffffc4;
+}
+body.theme_7.checkout_page .bacgr_tran{
+    background-color: #c900ff;
+}
