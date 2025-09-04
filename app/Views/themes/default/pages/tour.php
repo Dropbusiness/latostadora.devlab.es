@@ -40,7 +40,7 @@
                     }
                 }
             }else{
-                echo '<div class="col-12"><div class="mb-2">Ningún evento activo en estos momentos</div></div>';
+                echo '<div class="col-12"><div class="mb-2">Lo sentimos, no hay ningún evento disponible en estos momentos. Escríbenos a <a href="mailto:ayuda@easymerx.com">ayuda@easymerx.com</a> si tienes alguna duda.</div></div>';
             }
                 ?>
             </div>

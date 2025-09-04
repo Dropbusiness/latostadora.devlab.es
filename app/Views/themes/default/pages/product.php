@@ -17,6 +17,7 @@
         </div>
         <?php }?>
     </div>
+    <?php if($details['status']==1){ ?>
     <div class="axil-single-product-area bg-color-white">
         <div class="single-product-thumb axil-section-gapcommon single-product-modern">
             <div class="container">
@@ -110,7 +111,7 @@
                                 </div>
                                 <?php if($event['status']!=1){ ?>
                                     <div class="alert alert-warning text-center">
-                                      Este evento no está activo en estos momentos
+                                    Escríbenos a ayuda@easymerx.com si tienes alguna duda.
                                     </div>
                                 <?php }?>
                                     <!-- Start Product Action Wrapper  -->
@@ -162,6 +163,17 @@
         </div>
         <!-- woocommerce-tabs -->
     </div>
+    <?php }else{ ?>
+        <div class="container my-4" >
+            <div class="row my-4">
+                <div class="col-12">
+                    <div class="text-center my-4">
+                        Escríbenos a <a href="mailto:ayuda@easymerx.com">ayuda@easymerx.com</a> si tienes alguna duda.
+                    </div>
+                </div>
+            </div>
+        </div>
+    <?php }?>
     <!-- Modal ver talla end-->
     <script>
     document.addEventListener('DOMContentLoaded', function() {

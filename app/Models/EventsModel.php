@@ -42,9 +42,10 @@ class EventsModel extends Model
 		if($string!='')
 			$this->groupStart()
 				->orLike([
-					'city' => $string,
-                    'date' => $string, 
-				'slug' => $string])
+					'tbl_events.city' => $string,
+                    'tbl_events.date' => $string, 
+                    'tbl_artists.name' => $string,
+                    'tbl_tour.slug' => $string])
 				->groupEnd();
         return [
             'data'  => $this->paginate($nb_page,'default',$page),

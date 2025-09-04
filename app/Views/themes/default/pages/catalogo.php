@@ -39,7 +39,7 @@
                                     <!-- End Single Product  -->
                         <?php } 
                     }else{
-                        echo '<div class="col-12"><div class="mb-2 text-center">Este evento no está activo en estos momentos</div></div>';
+                        echo '<div class="col-12"><div class="mb-2 text-center">Lo sentimos, este evento no está disponible en estos momentos. Escríbenos a <a href="mailto:ayuda@easymerx.com">ayuda@easymerx.com</a> si tienes alguna duda.</div></div>';
                     }
                     ?>
                 </div>

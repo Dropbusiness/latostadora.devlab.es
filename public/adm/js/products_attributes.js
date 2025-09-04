@@ -64,7 +64,7 @@ function getattributes(elem,event,product_id,combination_id) {
                         <input type="number" name="stock" value="${attribute.stock}" class="form-control" id="cantidad">
                       </div>
                        <div class="form-group">
-                        <label for="models_cod">Código del modelo (H_A2)</label>
+                        <label for="models_cod">Código del modelo (ejemplo: H_A2)</label>
                         <input type="text" name="models_cod" value="${attribute.models_code??''}" class="form-control" id="models_cod">
                       </div>
                       <div class="form-group">
